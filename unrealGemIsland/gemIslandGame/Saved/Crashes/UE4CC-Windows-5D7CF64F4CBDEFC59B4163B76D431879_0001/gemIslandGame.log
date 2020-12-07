@@ -1,0 +1,894 @@
+﻿Log file open, 12/06/20 21:29:47
+LogInit: Display: Running engine for game: gemIslandGame
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.261251
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin Substance
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin MovieRenderPipeline
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.25-CL-14469661
+LogInit: Engine Version: 4.25.4-14469661+++UE4+Release-4.25
+LogInit: Compatible Engine Version: 4.25.0-13144385+++UE4+Release-4.25
+LogInit: Net CL: 13144385
+LogInit: OS: Windows 10 (Release 1909) (), CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Oct 11 2020 08:10:49
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.25
+LogInit: Command Line:  -EpicPortal -epicusername=Dandare890 -epicuserid=92938f7a38b24c07abc8c82eac2126a1 -epiclocale=en
+LogInit: Base Directory: D:/UnrealEngine/UE_4.25/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 26
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 38
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 43
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 7
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 37
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Documents/GitHub/magmagems.github.io/unrealGemIsland/gemIslandGame/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.12.07-02.29.47:624][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.12.07-02.29.47:624][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.12.07-02.29.47:624][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Documents/GitHub/magmagems.github.io/unrealGemIsland/gemIslandGame/Saved/Config/Windows/Engine.ini]
+[2020.12.07-02.29.47:624][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.12.07-02.29.47:624][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Documents/GitHub/magmagems.github.io/unrealGemIsland/gemIslandGame/Saved/Config/Windows/Engine.ini]
+[2020.12.07-02.29.47:624][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Documents/GitHub/magmagems.github.io/unrealGemIsland/gemIslandGame/Saved/Config/Windows/Engine.ini]
+[2020.12.07-02.29.47:624][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.12.07-02.29.47:624][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.12.07-02.29.47:624][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.12.07-02.29.47:624][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.12.07-02.29.47:624][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.12.07-02.29.47:624][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.12.07-02.29.47:624][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.12.07-02.29.47:624][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.12.07-02.29.47:624][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.12.07-02.29.47:625][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.12.07-02.29.47:625][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.12.07-02.29.47:625][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.12.07-02.29.47:625][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.12.07-02.29.47:625][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.12.07-02.29.47:625][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Documents/GitHub/magmagems.github.io/unrealGemIsland/gemIslandGame/Saved/Config/Windows/Engine.ini]
+[2020.12.07-02.29.47:625][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.12.07-02.29.47:625][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.12.07-02.29.47:625][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.12.07-02.29.47:625][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.12.07-02.29.47:625][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.12.07-02.29.47:625][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.12.07-02.29.47:625][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.12.07-02.29.47:625][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.12.07-02.29.47:625][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.12.07-02.29.47:625][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.12.07-02.29.47:625][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.12.07-02.29.47:625][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.12.07-02.29.47:625][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.12.07-02.29.47:625][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Documents/GitHub/magmagems.github.io/unrealGemIsland/gemIslandGame/Saved/Config/Windows/Engine.ini]
+[2020.12.07-02.29.47:625][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Documents/GitHub/magmagems.github.io/unrealGemIsland/gemIslandGame/Saved/Config/Windows/Engine.ini]
+[2020.12.07-02.29.47:628][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Documents/GitHub/magmagems.github.io/unrealGemIsland/gemIslandGame/Saved/Config/Windows/Scalability.ini]
+[2020.12.07-02.29.47:628][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.12.07-02.29.47:628][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.12.07-02.29.47:628][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Documents/GitHub/magmagems.github.io/unrealGemIsland/gemIslandGame/Saved/Config/Windows/Scalability.ini]
+[2020.12.07-02.29.47:628][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.12.07-02.29.47:628][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Documents/GitHub/magmagems.github.io/unrealGemIsland/gemIslandGame/Saved/Config/Windows/Scalability.ini]
+[2020.12.07-02.29.47:628][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.12.07-02.29.47:628][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.12.07-02.29.47:628][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.12.07-02.29.47:629][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.12.07-02.29.47:629][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.12.07-02.29.47:629][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.12.07-02.29.47:629][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.12.07-02.29.47:629][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.12.07-02.29.47:629][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.12.07-02.29.47:629][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.12.07-02.29.47:629][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.12.07-02.29.47:629][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.12.07-02.29.47:629][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.12.07-02.29.47:629][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.12.07-02.29.47:629][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.12.07-02.29.47:629][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.12.07-02.29.47:629][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.12.07-02.29.47:629][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.12.07-02.29.47:629][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Documents/GitHub/magmagems.github.io/unrealGemIsland/gemIslandGame/Saved/Config/Windows/Scalability.ini]
+[2020.12.07-02.29.47:629][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.12.07-02.29.47:629][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.12.07-02.29.47:629][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.12.07-02.29.47:629][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.12.07-02.29.47:629][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.12.07-02.29.47:629][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.12.07-02.29.47:629][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.12.07-02.29.47:629][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.12.07-02.29.47:629][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.12.07-02.29.47:629][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.12.07-02.29.47:629][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.12.07-02.29.47:629][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.12.07-02.29.47:629][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.12.07-02.29.47:629][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.12.07-02.29.47:629][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.12.07-02.29.47:629][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.12.07-02.29.47:629][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.12.07-02.29.47:629][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.12.07-02.29.47:629][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.12.07-02.29.47:629][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.12.07-02.29.47:629][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.12.07-02.29.47:629][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.12.07-02.29.47:629][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.12.07-02.29.47:629][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.12.07-02.29.47:629][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.12.07-02.29.47:629][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.12.07-02.29.47:629][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.12.07-02.29.47:629][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.12.07-02.29.47:629][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.12.07-02.29.47:629][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.12.07-02.29.47:629][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Documents/GitHub/magmagems.github.io/unrealGemIsland/gemIslandGame/Saved/Config/Windows/Scalability.ini]
+[2020.12.07-02.29.47:629][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.12.07-02.29.47:629][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.12.07-02.29.47:629][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.12.07-02.29.47:629][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.12.07-02.29.47:629][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.12.07-02.29.47:629][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.12.07-02.29.47:629][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.12.07-02.29.47:629][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.12.07-02.29.47:629][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.12.07-02.29.47:629][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Documents/GitHub/magmagems.github.io/unrealGemIsland/gemIslandGame/Saved/Config/Windows/Scalability.ini]
+[2020.12.07-02.29.47:629][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.12.07-02.29.47:629][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.12.07-02.29.47:629][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.12.07-02.29.47:629][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.12.07-02.29.47:630][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.12.07-02.29.47:630][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.12.07-02.29.47:630][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.12.07-02.29.47:630][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.12.07-02.29.47:630][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.12.07-02.29.47:630][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.12.07-02.29.47:630][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.12.07-02.29.47:630][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.12.07-02.29.47:630][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.12.07-02.29.47:630][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.12.07-02.29.47:630][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.12.07-02.29.47:630][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.12.07-02.29.47:630][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.12.07-02.29.47:630][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.12.07-02.29.47:630][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.12.07-02.29.47:630][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.12.07-02.29.47:630][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.12.07-02.29.47:630][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.12.07-02.29.47:630][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.12.07-02.29.47:630][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.12.07-02.29.47:630][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.12.07-02.29.47:630][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.12.07-02.29.47:630][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Documents/GitHub/magmagems.github.io/unrealGemIsland/gemIslandGame/Saved/Config/Windows/Scalability.ini]
+[2020.12.07-02.29.47:630][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.12.07-02.29.47:630][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.12.07-02.29.47:630][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Documents/GitHub/magmagems.github.io/unrealGemIsland/gemIslandGame/Saved/Config/Windows/Scalability.ini]
+[2020.12.07-02.29.47:630][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.12.07-02.29.47:630][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.12.07-02.29.47:630][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.12.07-02.29.47:630][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2020.12.07-02.29.47:630][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2020.12.07-02.29.47:630][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2020.12.07-02.29.47:630][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2020.12.07-02.29.47:630][  0]LogInit: Selected Device Profile: [Windows]
+[2020.12.07-02.29.47:630][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.12.07-02.29.47:630][  0]LogHAL: Display: Platform has ~ 16 GB [17038577664 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.12.07-02.29.47:630][  0]LogInit: Going up to parent DeviceProfile []
+[2020.12.07-02.29.47:630][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Documents/GitHub/magmagems.github.io/unrealGemIsland/gemIslandGame/Saved/Config/Windows/Scalability.ini]
+[2020.12.07-02.29.47:630][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.12.07-02.29.47:630][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.12.07-02.29.47:630][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Documents/GitHub/magmagems.github.io/unrealGemIsland/gemIslandGame/Saved/Config/Windows/Scalability.ini]
+[2020.12.07-02.29.47:630][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.12.07-02.29.47:630][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Documents/GitHub/magmagems.github.io/unrealGemIsland/gemIslandGame/Saved/Config/Windows/Scalability.ini]
+[2020.12.07-02.29.47:630][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.12.07-02.29.47:630][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.12.07-02.29.47:630][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.12.07-02.29.47:630][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.12.07-02.29.47:630][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.12.07-02.29.47:630][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.12.07-02.29.47:630][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.12.07-02.29.47:630][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.12.07-02.29.47:630][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.12.07-02.29.47:630][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.12.07-02.29.47:630][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.12.07-02.29.47:630][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.12.07-02.29.47:630][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.12.07-02.29.47:630][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.12.07-02.29.47:630][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.12.07-02.29.47:630][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.12.07-02.29.47:630][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.12.07-02.29.47:630][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.12.07-02.29.47:630][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Documents/GitHub/magmagems.github.io/unrealGemIsland/gemIslandGame/Saved/Config/Windows/Scalability.ini]
+[2020.12.07-02.29.47:630][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.12.07-02.29.47:630][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.12.07-02.29.47:631][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.12.07-02.29.47:631][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.12.07-02.29.47:631][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.12.07-02.29.47:631][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.12.07-02.29.47:631][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.12.07-02.29.47:631][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.12.07-02.29.47:631][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.12.07-02.29.47:631][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.12.07-02.29.47:631][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.12.07-02.29.47:631][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.12.07-02.29.47:631][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.12.07-02.29.47:631][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.12.07-02.29.47:631][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.12.07-02.29.47:631][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.12.07-02.29.47:631][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.12.07-02.29.47:631][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.12.07-02.29.47:631][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.12.07-02.29.47:631][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.12.07-02.29.47:631][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.12.07-02.29.47:631][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.12.07-02.29.47:631][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.12.07-02.29.47:631][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.12.07-02.29.47:631][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.12.07-02.29.47:631][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.12.07-02.29.47:631][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.12.07-02.29.47:631][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.12.07-02.29.47:631][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.12.07-02.29.47:631][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.12.07-02.29.47:631][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Documents/GitHub/magmagems.github.io/unrealGemIsland/gemIslandGame/Saved/Config/Windows/Scalability.ini]
+[2020.12.07-02.29.47:631][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.12.07-02.29.47:631][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.12.07-02.29.47:631][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.12.07-02.29.47:631][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.12.07-02.29.47:631][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.12.07-02.29.47:631][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.12.07-02.29.47:631][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.12.07-02.29.47:631][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.12.07-02.29.47:631][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.12.07-02.29.47:631][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Documents/GitHub/magmagems.github.io/unrealGemIsland/gemIslandGame/Saved/Config/Windows/Scalability.ini]
+[2020.12.07-02.29.47:631][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.12.07-02.29.47:631][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.12.07-02.29.47:631][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.12.07-02.29.47:631][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.12.07-02.29.47:631][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.12.07-02.29.47:631][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.12.07-02.29.47:631][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.12.07-02.29.47:631][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.12.07-02.29.47:631][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.12.07-02.29.47:631][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.12.07-02.29.47:631][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.12.07-02.29.47:631][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.12.07-02.29.47:631][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.12.07-02.29.47:631][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.12.07-02.29.47:631][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.12.07-02.29.47:631][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.12.07-02.29.47:631][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.12.07-02.29.47:631][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.12.07-02.29.47:631][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.12.07-02.29.47:631][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.12.07-02.29.47:631][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.12.07-02.29.47:631][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.12.07-02.29.47:631][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.12.07-02.29.47:631][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.12.07-02.29.47:631][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.12.07-02.29.47:631][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.12.07-02.29.47:631][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Documents/GitHub/magmagems.github.io/unrealGemIsland/gemIslandGame/Saved/Config/Windows/Scalability.ini]
+[2020.12.07-02.29.47:631][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.12.07-02.29.47:631][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.12.07-02.29.47:631][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Documents/GitHub/magmagems.github.io/unrealGemIsland/gemIslandGame/Saved/Config/Windows/Scalability.ini]
+[2020.12.07-02.29.47:631][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.12.07-02.29.47:631][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.12.07-02.29.47:631][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.12.07-02.29.47:631][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2020.12.07-02.29.47:631][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2020.12.07-02.29.47:631][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2020.12.07-02.29.47:632][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2020.12.07-02.29.47:632][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.12.07-02.29.47:632][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.12.07-02.29.47:632][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.12.07-02.29.47:632][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2020.12.07-02.29.47:632][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Documents/GitHub/magmagems.github.io/unrealGemIsland/gemIslandGame/Saved/Config/Windows/Engine.ini]
+[2020.12.07-02.29.47:632][  0]LogInit: Computer: DESKTOP-IA40GBU
+[2020.12.07-02.29.47:632][  0]LogInit: User: danda
+[2020.12.07-02.29.47:632][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.12.07-02.29.47:632][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.12.07-02.29.47:632][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2020.12.07-02.29.47:632][  0]LogMemory: Platform Memory Stats for Windows
+[2020.12.07-02.29.47:632][  0]LogMemory: Process Physical Memory: 113.33 MB used, 113.34 MB peak
+[2020.12.07-02.29.47:632][  0]LogMemory: Process Virtual Memory: 108.05 MB used, 108.05 MB peak
+[2020.12.07-02.29.47:632][  0]LogMemory: Physical Memory: 7524.64 MB used,  8724.61 MB free, 16249.25 MB total
+[2020.12.07-02.29.47:632][  0]LogMemory: Virtual Memory: 5152.38 MB used,  134212576.00 MB free, 134217728.00 MB total
+[2020.12.07-02.29.47:639][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.12.07-02.29.47:691][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2020.12.07-02.29.47:692][  0]LogInit: Using OS detected language (en-US).
+[2020.12.07-02.29.47:692][  0]LogInit: Using OS detected locale (en-US).
+[2020.12.07-02.29.47:694][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.12.07-02.29.47:941][  0]LogInit: Setting process to per monitor DPI aware
+[2020.12.07-02.29.47:996][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.12.07-02.29.47:997][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.12.07-02.29.48:316][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.12.07-02.29.48:316][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.12.07-02.29.48:316][  0]LogD3D11RHI: D3D11 adapters:
+[2020.12.07-02.29.48:403][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 with Max-Q Design' (Feature Level 11_0)
+[2020.12.07-02.29.48:403][  0]LogD3D11RHI:       6052/0/8124 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.12.07-02.29.48:433][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2020.12.07-02.29.48:433][  0]LogD3D11RHI:       128/0/8124 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.12.07-02.29.48:437][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.12.07-02.29.48:437][  0]LogD3D11RHI:       0/0/8124 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.12.07-02.29.48:437][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.12.07-02.29.48:497][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.12.07-02.29.48:497][  0]LogD3D11RHI:     GPU DeviceId: 0x1c20 (for the marketing name, search the web for "GPU Device Id")
+[2020.12.07-02.29.48:497][  0]LogWindows: EnumDisplayDevices:
+[2020.12.07-02.29.48:497][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2020.12.07-02.29.48:497][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2020.12.07-02.29.48:498][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2020.12.07-02.29.48:498][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 with Max-Q Design' (P:0 D:0)
+[2020.12.07-02.29.48:498][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter 
+[2020.12.07-02.29.48:498][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 with Max-Q Design
+[2020.12.07-02.29.48:498][  0]LogD3D11RHI:   Driver Version: 451.67 (internal:27.21.14.5167, unified:451.67)
+[2020.12.07-02.29.48:498][  0]LogD3D11RHI:      Driver Date: 7-5-2020
+[2020.12.07-02.29.48:498][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2020.12.07-02.29.48:562][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.12.07-02.29.48:562][  0]LogD3D11RHI: Async texture creation enabled
+[2020.12.07-02.29.48:562][  0]LogD3D11RHI: Array index from any shader is supported
+[2020.12.07-02.29.48:591][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.12.07-02.29.48:992][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.12.07-02.29.49:015][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.12.07-02.29.49:015][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.12.07-02.29.49:015][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.12.07-02.29.49:015][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.12.07-02.29.49:015][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.12.07-02.29.49:015][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.12.07-02.29.49:015][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.12.07-02.29.49:015][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.12.07-02.29.49:015][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.12.07-02.29.49:016][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.12.07-02.29.49:041][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.12.07-02.29.49:041][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.12.07-02.29.49:054][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2020.12.07-02.29.49:065][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.12.07-02.29.49:076][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.12.07-02.29.49:087][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.12.07-02.29.49:098][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.12.07-02.29.49:109][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.12.07-02.29.49:120][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.12.07-02.29.49:152][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.12.07-02.29.49:152][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.12.07-02.29.49:170][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.12.07-02.29.49:170][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.12.07-02.29.49:181][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.12.07-02.29.49:193][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.12.07-02.29.49:203][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.12.07-02.29.49:214][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.12.07-02.29.49:214][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.12.07-02.29.49:225][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.12.07-02.29.49:300][  0]LogShaderCompilers: Guid format shader working directory is -36 characters bigger than the processId version (../../../../../Documents/GitHub/magmagems.github.io/unrealGemIsland/gemIslandGame/Intermediate/Shaders/WorkingDirectory/15552/).
+[2020.12.07-02.29.49:301][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/danda/AppData/Local/Temp/UnrealShaderWorkingDir/6C1A7DC546781F59C9F802BD711F0E3E/'.
+[2020.12.07-02.29.49:301][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.12.07-02.29.49:301][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.12.07-02.29.49:302][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.12.07-02.29.50:262][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.12.07-02.29.50:328][  0]LogDerivedDataCache: Loaded boot cache 0.07s 76MB C:/Users/danda/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2020.12.07-02.29.50:328][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/danda/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc
+[2020.12.07-02.29.50:328][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Documents/GitHub/magmagems.github.io/unrealGemIsland/gemIslandGame/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.12.07-02.29.50:328][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.12.07-02.29.50:328][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Documents/GitHub/magmagems.github.io/unrealGemIsland/gemIslandGame/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.12.07-02.29.50:328][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.12.07-02.29.50:340][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.12.07-02.29.50:340][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.12.07-02.29.50:340][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.12.07-02.29.50:342][  0]LogDerivedDataCache: Using Local data cache path C:/Users/danda/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.12.07-02.29.50:342][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.12.07-02.29.50:342][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.12.07-02.29.50:408][  0]LogSlate: Using FreeType 2.10.0
+[2020.12.07-02.29.50:409][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.12.07-02.29.50:444][  0]LogAssetRegistry: FAssetRegistry took 0.0030 seconds to start up
+[2020.12.07-02.29.50:746][  0]LogInit: Selected Device Profile: [Windows]
+[2020.12.07-02.29.50:883][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.12.07-02.29.50:883][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.12.07-02.29.50:883][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.12.07-02.29.50:883][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.12.07-02.29.50:884][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.12.07-02.29.50:905][  0]LogNetVersion: gemIslandGame 1.0.0, NetCL: 13144385, EngineNetVer: 14, GameNetVer: 0 (Checksum: 92189094)
+[2020.12.07-02.29.51:531][  0]LogAISub: UAISubsystem::UAISubsystem AISubsystem (000001C812CDEAC0), frame # 0
+[2020.12.07-02.29.51:531][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001C812C6EAC0), frame # 0
+[2020.12.07-02.29.51:532][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001C812CC2000), frame # 0
+[2020.12.07-02.29.51:612][  0]LogPackageLocalizationCache: Processed 18 localized package path(s) for 1 prioritized culture(s) in 0.071859 seconds
+[2020.12.07-02.29.51:618][  0]LogUObjectArray: 15756 objects as part of root set at end of initial load.
+[2020.12.07-02.29.51:618][  0]LogUObjectAllocator: 3925280 out of 0 bytes used by permanent object pool.
+[2020.12.07-02.29.51:618][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.12.07-02.29.52:049][  0]LogSubstanceCoreModule: Substance [CPU] Engine Loaded, Max Texture Size = 2048
+[2020.12.07-02.29.52:061][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.12.07-02.29.52:066][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.12.07-02.29.52:168][  0]SourceControl: Source control is disabled
+[2020.12.07-02.29.52:168][  0]SourceControl: Source control is disabled
+[2020.12.07-02.29.52:173][  0]SourceControl: Source control is disabled
+[2020.12.07-02.29.52:176][  0]SourceControl: Source control is disabled
+[2020.12.07-02.29.52:186][  0]SourceControl: Source control is disabled
+[2020.12.07-02.29.52:487][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.12.07-02.29.52:512][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.12.07-02.29.52:512][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.12.07-02.29.52:704][  0]LogEngine: Initializing Engine...
+[2020.12.07-02.29.52:706][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2020.12.07-02.29.52:708][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.12.07-02.29.52:863][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.12.07-02.29.52:872][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.12.07-02.29.52:872][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001C815001800), frame # 0
+[2020.12.07-02.29.52:872][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001C814FCFB00), frame # 0
+[2020.12.07-02.29.52:896][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.07-02.29.52:896][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.07-02.29.52:896][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.07-02.29.52:896][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.07-02.29.52:896][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.07-02.29.52:896][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.07-02.29.52:896][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.07-02.29.52:896][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.07-02.29.52:896][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.07-02.29.52:896][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.07-02.29.52:923][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.07-02.29.52:923][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.12.07-02.29.53:063][  0]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek Audio)
+[2020.12.07-02.29.53:066][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.07-02.29.53:069][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.07-02.29.53:069][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.07-02.29.53:070][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.07-02.29.53:071][  0]LogInit: FAudioDevice initialized.
+[2020.12.07-02.29.53:072][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.12.07-02.29.53:280][  0]LogDerivedDataCache: Saved boot cache 0.21s 76MB C:/Users/danda/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2020.12.07-02.29.53:285][  0]LogInit: Texture streaming: Enabled
+[2020.12.07-02.29.53:306][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.12.07-02.29.53:306][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.12.07-02.29.53:308][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.12.07-02.29.53:398][  0]LogInit: Transaction tracking system initialized
+[2020.12.07-02.29.53:424][  0]BlueprintLog: New page: Editor Load
+[2020.12.07-02.29.53:510][  0]LocalizationService: Localization service is disabled
+[2020.12.07-02.29.53:735][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.12.07-02.29.53:735][  0]LogCook: Display: Mobile HDR setting 1
+[2020.12.07-02.29.53:814][  0]LogFileCache: Scanning file cache for directory 'D:/Documents/GitHub/magmagems.github.io/unrealGemIsland/gemIslandGame/Content/' took 0.01s
+[2020.12.07-02.29.53:936][  0]SourceControl: Source control is disabled
+[2020.12.07-02.29.54:270][  0]LogSlate: Took 0.000293 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.12.07-02.30.21:961][  0]LogSlate: Window 'Restore Packages' being destroyed
+[2020.12.07-02.30.21:962][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.12.07-02.30.22:022][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.12.07-02.30.23:689][  0]LogSlate: Window 'Unable to Check Out From Source Control!' being destroyed
+[2020.12.07-02.30.23:689][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.12.07-02.30.23:695][  0]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/Levels/LightingLevelSequence
+[2020.12.07-02.30.23:714][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.12.07-02.30.23:715][  0]LogUnrealEdMisc: Loading editor; pre map load, took 38.678
+[2020.12.07-02.30.23:716][  0]Cmd: MAP LOAD FILE="../../../../../Documents/GitHub/magmagems.github.io/unrealGemIsland/gemIslandGame/Content/Levels/Lighting.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.12.07-02.30.23:717][  0]LightingResults: New page: Lighting Build
+[2020.12.07-02.30.23:719][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.12.07-02.30.23:719][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.07-02.30.23:719][  0]MapCheck: New page: Map Check
+[2020.12.07-02.30.23:719][  0]LightingResults: New page: Lighting Build
+[2020.12.07-02.30.23:735][  0]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001C815001800), frame # 0
+[2020.12.07-02.30.23:735][  0]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001C814FCFB00), frame # 0
+[2020.12.07-02.30.23:737][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2020.12.07-02.30.24:226][  0]LogAIModule: Creating AISystem for world Lighting
+[2020.12.07-02.30.24:227][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001C82266DE00), frame # 0
+[2020.12.07-02.30.24:227][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001C804A98400), frame # 0
+[2020.12.07-02.30.24:244][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.12.07-02.30.24:261][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2020.12.07-02.30.24:263][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.12.07-02.30.24:263][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.222ms to complete.
+[2020.12.07-02.30.24:263][  0]LogFileHelpers: Loading map 'Lighting' took 0.547
+[2020.12.07-02.30.24:263][  0]LogAssetRegistry: Flushing asset discovery search because of synchronous request, this can take several seconds...
+[2020.12.07-02.30.24:292][  0]LogAssetRegistry: Asset discovery search completed in 0.0285 seconds
+[2020.12.07-02.30.24:305][  0]LogCollectionManager: Loaded 1 collections in 0.001623 seconds
+[2020.12.07-02.30.24:311][  0]LogFileCache: Scanning file cache for directory 'D:/Documents/GitHub/magmagems.github.io/unrealGemIsland/gemIslandGame/Saved/Collections/' took 0.00s
+[2020.12.07-02.30.24:311][  0]LogFileCache: Scanning file cache for directory 'D:/Documents/GitHub/magmagems.github.io/unrealGemIsland/gemIslandGame/Content/Developers/danda/Collections/' took 0.00s
+[2020.12.07-02.30.24:311][  0]LogFileCache: Scanning file cache for directory 'D:/Documents/GitHub/magmagems.github.io/unrealGemIsland/gemIslandGame/Content/Collections/' took 0.00s
+[2020.12.07-02.30.24:311][  0]LogCollectionManager: Fixed up redirectors for 1 collections in 0.000059 seconds (updated 0 objects)
+[2020.12.07-02.30.24:538][  0]LogUnrealEdMisc: Total Editor Startup Time, took 39.500
+[2020.12.07-02.30.24:633][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.07-02.30.24:648][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.07-02.30.24:664][  0]LogContentBrowser: Native class hierarchy populated in 0.0112 seconds. Added 3417 classes and 811 folders.
+[2020.12.07-02.30.24:670][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.12.07-02.30.24:782][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2020.12.07-02.30.24:783][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 2 classes and 0 folders.
+[2020.12.07-02.30.24:833][  0]LogSlate: Took 0.000522 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.12.07-02.30.24:841][  0]LogSlate: Took 0.000359 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.12.07-02.30.24:876][  0]LogRenderer: Reallocating scene render targets to support 556x520 Format 10 NumSamples 1 (Frame:1).
+[2020.12.07-02.30.24:958][  0]LogSlate: Took 0.000354 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.12.07-02.30.25:024][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.12.07-02.30.25:024][  0]LogLoad: (Engine Initialization) Total time: 39.99 seconds
+[2020.12.07-02.30.25:024][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.12.07-02.30.25:135][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.12.07-02.30.25:169][  1]LogRenderer: Reallocating scene render targets to support 820x520 Format 10 NumSamples 1 (Frame:3).
+[2020.12.07-02.30.25:169][  1]LogSubstanceLiveLink: Warning: Unable to send data along socket, closing connection
+[2020.12.07-02.30.26:071][ 51]LogSlate: Took 0.000274 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.12.07-02.30.28:972][204]LogEditorViewport: Clicking Background
+[2020.12.07-02.30.34:273][518]LogSlate: Took 0.000239 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.12.07-02.30.37:489][709]LogEditorViewport: Clicking on Actor (LMB): NiagaraActor (NewNiagaraSystem)
+[2020.12.07-02.30.43:341][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.12.07-02.30.43:381][ 50]LogSavePackage: Moving '../../../../../Documents/GitHub/magmagems.github.io/unrealGemIsland/gemIslandGame/Saved/Lighting1418AEEF41041907471D2F93834CA818.tmp' to '../../../../../Documents/GitHub/magmagems.github.io/unrealGemIsland/gemIslandGame/Content/Levels/Lighting.umap'
+[2020.12.07-02.30.43:427][ 50]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Lighting_BuiltData" FILE="../../../../../Documents/GitHub/magmagems.github.io/unrealGemIsland/gemIslandGame/Content/Levels/Lighting_BuiltData.uasset" SILENT=true
+[2020.12.07-02.30.43:469][ 50]LogSavePackage: Moving '../../../../../Documents/GitHub/magmagems.github.io/unrealGemIsland/gemIslandGame/Saved/Lighting_BuiltDataA437505C493CFBAE3B4A57AB5027C32F.tmp' to '../../../../../Documents/GitHub/magmagems.github.io/unrealGemIsland/gemIslandGame/Content/Levels/Lighting_BuiltData.uasset'
+[2020.12.07-02.30.43:486][ 50]AssetCheck: New page: Asset Save: multiple assets
+[2020.12.07-02.30.43:486][ 50]LogContentValidation: Display: Validating World /Game/Levels/Lighting.Lighting
+[2020.12.07-02.30.43:486][ 50]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Lighting_BuiltData.Lighting_BuiltData
+[2020.12.07-02.30.45:665][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2020.12.07-02.31.01:659][ 97]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume)
+[2020.12.07-02.31.04:964][283]LogEditorViewport: Clicking on Actor (LMB): NiagaraActor (NewNiagaraSystem)
+[2020.12.07-02.31.20:840][205]LogAssetEditorSubsystem: Opening Asset editor for NiagaraSystem /Game/Dust/NewNiagaraSystem.NewNiagaraSystem
+[2020.12.07-02.31.20:891][205]LogNiagaraEditor: Verbose: '/Game/Dust/NewNiagaraSystem' Precompile took 0.016509 sec.
+[2020.12.07-02.31.20:912][205]LogNiagara: Compiling System NiagaraSystem /Game/Dust/NewNiagaraSystem.NewNiagaraSystem took 0.054794 sec (overall compilation time), 0.000000 sec (combined shader worker time).
+[2020.12.07-02.31.21:651][205]23422_NewNiagaraSystem_MessageLog: System compile status dirty with 0 warning(s) and 0 error(s).
+[2020.12.07-02.31.26:357][458]LogNiagaraEditor: Verbose: '/Game/Dust/NewNiagaraSystem' Precompile took 0.014577 sec.
+[2020.12.07-02.31.26:379][458]LogNiagara: Compiling System NiagaraSystem /Game/Dust/NewNiagaraSystem.NewNiagaraSystem took 0.049900 sec (overall compilation time), 0.000000 sec (combined shader worker time).
+[2020.12.07-02.31.26:535][458]LogNiagaraEditor: Verbose: '/Game/Dust/NewNiagaraSystem' Precompile took 0.013415 sec.
+[2020.12.07-02.31.26:551][458]LogNiagara: Compiling System NiagaraSystem /Game/Dust/NewNiagaraSystem.NewNiagaraSystem took 0.042786 sec (overall compilation time), 0.000000 sec (combined shader worker time).
+[2020.12.07-02.31.26:642][458]23422_NewNiagaraSystem_MessageLog: System compile status dirty with 0 warning(s) and 0 error(s).
+[2020.12.07-02.31.26:782][459]23422_NewNiagaraSystem_MessageLog: System compile status dirty with 0 warning(s) and 0 error(s).
+[2020.12.07-02.31.27:479][491]LogNiagaraEditor: Verbose: '/Game/Dust/NewNiagaraSystem' Precompile took 0.007969 sec.
+[2020.12.07-02.31.27:491][491]LogNiagara: Compiling System NiagaraSystem /Game/Dust/NewNiagaraSystem.NewNiagaraSystem took 0.026958 sec (overall compilation time), 0.000000 sec (combined shader worker time).
+[2020.12.07-02.31.27:580][491]LogNiagaraEditor: Verbose: '/Game/Dust/NewNiagaraSystem' Precompile took 0.007362 sec.
+[2020.12.07-02.31.27:589][491]LogNiagara: Compiling System NiagaraSystem /Game/Dust/NewNiagaraSystem.NewNiagaraSystem took 0.021583 sec (overall compilation time), 0.000000 sec (combined shader worker time).
+[2020.12.07-02.31.27:648][491]23422_NewNiagaraSystem_MessageLog: System compile status dirty with 0 warning(s) and 0 error(s).
+[2020.12.07-02.31.27:736][492]23422_NewNiagaraSystem_MessageLog: System compile status dirty with 0 warning(s) and 0 error(s).
+[2020.12.07-02.31.48:555][646]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2020.12.07-02.31.55:959][ 31]Cmd: TRANSACTION UNDO
+[2020.12.07-02.31.55:960][ 31]LogEditorTransaction: Undo Update input local value
+[2020.12.07-02.31.55:989][ 31]LogNiagaraEditor: Verbose: '/Game/Dust/NewNiagaraSystem' Precompile took 0.008204 sec.
+[2020.12.07-02.31.56:000][ 31]LogNiagara: Compiling System NiagaraSystem /Game/Dust/NewNiagaraSystem.NewNiagaraSystem took 0.029694 sec (overall compilation time), 0.000000 sec (combined shader worker time).
+[2020.12.07-02.31.56:132][ 31]LogNiagaraEditor: Verbose: '/Game/Dust/NewNiagaraSystem' Precompile took 0.006171 sec.
+[2020.12.07-02.31.56:140][ 31]LogNiagara: Compiling System NiagaraSystem /Game/Dust/NewNiagaraSystem.NewNiagaraSystem took 0.021427 sec (overall compilation time), 0.000000 sec (combined shader worker time).
+[2020.12.07-02.31.56:198][ 31]23422_NewNiagaraSystem_MessageLog: System compile status dirty with 0 warning(s) and 0 error(s).
+[2020.12.07-02.32.48:527][830]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2020.12.07-02.33.07:260][926]LogEditorViewport: Clicking on Actor (LMB): NiagaraActor (NewNiagaraSystem)
+[2020.12.07-02.33.18:494][592]LogTemp: Repeating last play command: Selected Viewport
+[2020.12.07-02.33.18:520][592]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.07-02.33.18:522][592]PIE: New page: PIE session: Lighting (Dec 6, 2020, 4:33:18 PM)
+[2020.12.07-02.33.18:522][592]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.12.07-02.33.18:525][592]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2020.12.07-02.33.18:525][592]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Lighting
+[2020.12.07-02.33.18:530][592]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004354s)
+[2020.12.07-02.33.18:531][592]LogAIModule: Creating AISystem for world Lighting
+[2020.12.07-02.33.18:531][592]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001C82B458800), frame # 9592
+[2020.12.07-02.33.18:531][592]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001C895BA3100), frame # 9592
+[2020.12.07-02.33.18:531][592]LogPlayLevel: PIE: World Init took: (0.001182s)
+[2020.12.07-02.33.18:531][592]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Lighting.Lighting to /Game/Levels/UEDPIE_0_Lighting.Lighting (0.005740s)
+[2020.12.07-02.33.18:552][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2020.12.07-02.33.18:558][592]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.07-02.33.18:558][592]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.07-02.33.18:558][592]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.07-02.33.18:558][592]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.07-02.33.18:558][592]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.07-02.33.18:558][592]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.07-02.33.18:558][592]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.07-02.33.18:558][592]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.07-02.33.18:558][592]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.07-02.33.18:558][592]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.07-02.33.18:565][592]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.07-02.33.18:565][592]LogAudioMixer: Display: 1: FrontRight
+[2020.12.07-02.33.18:669][592]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek Audio)
+[2020.12.07-02.33.18:669][592]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.07-02.33.18:669][592]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.07-02.33.18:669][592]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.07-02.33.18:669][592]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.07-02.33.18:689][592]LogInit: FAudioDevice initialized.
+[2020.12.07-02.33.18:702][592]LogLoad: Game class is 'GameModeBase'
+[2020.12.07-02.33.18:705][592]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Lighting.Lighting up for play (max tick rate 60) at 2020.12.06-21.33.18
+[2020.12.07-02.33.18:705][592]LogLinker: Warning: Failed to load '/Game/CameraView/CloseUp': Can't find file.
+[2020.12.07-02.33.18:705][592]LogLinker: Warning: Failed to load '/Game/CameraView/CloseUp': Can't find file.
+[2020.12.07-02.33.18:705][592]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/CameraView/CloseUp.CloseUp'
+[2020.12.07-02.33.18:733][592]LogWorld: Bringing up level for play took: 0.029626
+[2020.12.07-02.33.18:733][592]LogOnline: OSS: Creating online subsystem instance for: :Context_4
+[2020.12.07-02.33.18:747][592]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 20 classes and 0 folders.
+[2020.12.07-02.33.18:748][592]PIE: Server logged in
+[2020.12.07-02.33.18:749][592]PIE: Play in editor total start time 0.23 seconds.
+[2020.12.07-02.33.25:236][963]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.07-02.33.25:236][963]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Lighting
+[2020.12.07-02.33.25:236][963]LogWorld: UWorld::CleanupWorld for Lighting, bSessionEnded=true, bCleanupResources=true
+[2020.12.07-02.33.25:236][963]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.07-02.33.25:249][963]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.07-02.33.25:267][963]LogNiagaraEditor: onPieEnd
+[2020.12.07-02.33.25:269][963]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.07-02.33.25:311][963]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.07-02.33.25:313][963]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001C82B458800), frame # 9963
+[2020.12.07-02.33.25:313][963]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001C895BA3100), frame # 9963
+[2020.12.07-02.33.25:314][963]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2020.12.07-02.33.25:354][964]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2020.12.07-02.33.32:889][402]LogRenderer: Reallocating scene render targets to support 820x560 Format 10 NumSamples 1 (Frame:19129).
+[2020.12.07-02.33.32:966][403]LogRenderer: Reallocating scene render targets to support 820x576 Format 10 NumSamples 1 (Frame:19132).
+[2020.12.07-02.33.33:024][404]LogRenderer: Reallocating scene render targets to support 820x640 Format 10 NumSamples 1 (Frame:19136).
+[2020.12.07-02.33.33:076][405]LogRenderer: Reallocating scene render targets to support 820x676 Format 10 NumSamples 1 (Frame:19140).
+[2020.12.07-02.33.33:131][406]LogRenderer: Reallocating scene render targets to support 820x688 Format 10 NumSamples 1 (Frame:19144).
+[2020.12.07-02.33.33:181][407]LogRenderer: Reallocating scene render targets to support 820x696 Format 10 NumSamples 1 (Frame:19148).
+[2020.12.07-02.33.33:229][408]LogRenderer: Reallocating scene render targets to support 820x700 Format 10 NumSamples 1 (Frame:19152).
+[2020.12.07-02.33.59:239][950]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2020.12.07-02.33.59:271][950]LogSavePackage: Moving '../../../../../Documents/GitHub/magmagems.github.io/unrealGemIsland/gemIslandGame/Saved/LightingEBDF591E412F0A55F76B19A2EBD7AE8F.tmp' to '../../../../../Documents/GitHub/magmagems.github.io/unrealGemIsland/gemIslandGame/Content/Levels/Lighting.umap'
+[2020.12.07-02.33.59:325][950]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Lighting_BuiltData" FILE="../../../../../Documents/GitHub/magmagems.github.io/unrealGemIsland/gemIslandGame/Content/Levels/Lighting_BuiltData.uasset" SILENT=true
+[2020.12.07-02.33.59:361][950]LogSavePackage: Moving '../../../../../Documents/GitHub/magmagems.github.io/unrealGemIsland/gemIslandGame/Saved/Lighting_BuiltData06E2998C48F7B82E1B783E8496296273.tmp' to '../../../../../Documents/GitHub/magmagems.github.io/unrealGemIsland/gemIslandGame/Content/Levels/Lighting_BuiltData.uasset'
+[2020.12.07-02.33.59:377][950]AssetCheck: New page: Asset Save: multiple assets
+[2020.12.07-02.33.59:377][950]LogContentValidation: Display: Validating World /Game/Levels/Lighting.Lighting
+[2020.12.07-02.33.59:377][950]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Lighting_BuiltData.Lighting_BuiltData
+[2020.12.07-02.34.00:810][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2020.12.07-02.34.02:771][ 33]LogSlate: Window 'Save Content' being destroyed
+[2020.12.07-02.34.02:836][ 33]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dust/NewNiagaraSystem" FILE="../../../../../Documents/GitHub/magmagems.github.io/unrealGemIsland/gemIslandGame/Content/Dust/NewNiagaraSystem.uasset" SILENT=true
+[2020.12.07-02.34.03:119][ 33]LogSavePackage: Moving '../../../../../Documents/GitHub/magmagems.github.io/unrealGemIsland/gemIslandGame/Saved/NewNiagaraSystem083D7DEE4BDEA924E3F9DCA96C8B96E1.tmp' to '../../../../../Documents/GitHub/magmagems.github.io/unrealGemIsland/gemIslandGame/Content/Dust/NewNiagaraSystem.uasset'
+[2020.12.07-02.34.03:136][ 33]AssetCheck: New page: Asset Save: NewNiagaraSystem
+[2020.12.07-02.34.03:136][ 33]LogContentValidation: Display: Validating NiagaraSystem /Game/Dust/NewNiagaraSystem.NewNiagaraSystem
+[2020.12.07-02.35.07:044][809]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2020.12.07-02.35.07:079][809]LogSavePackage: Moving '../../../../../Documents/GitHub/magmagems.github.io/unrealGemIsland/gemIslandGame/Saved/LightingD58BFAE14AB457927F3316908070394B.tmp' to '../../../../../Documents/GitHub/magmagems.github.io/unrealGemIsland/gemIslandGame/Content/Levels/Lighting.umap'
+[2020.12.07-02.35.07:124][809]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Lighting_BuiltData" FILE="../../../../../Documents/GitHub/magmagems.github.io/unrealGemIsland/gemIslandGame/Content/Levels/Lighting_BuiltData.uasset" SILENT=true
+[2020.12.07-02.35.07:157][809]LogSavePackage: Moving '../../../../../Documents/GitHub/magmagems.github.io/unrealGemIsland/gemIslandGame/Saved/Lighting_BuiltData559F828942E4F930D97CF981816A0444.tmp' to '../../../../../Documents/GitHub/magmagems.github.io/unrealGemIsland/gemIslandGame/Content/Levels/Lighting_BuiltData.uasset'
+[2020.12.07-02.35.07:173][809]AssetCheck: New page: Asset Save: multiple assets
+[2020.12.07-02.35.07:173][809]LogContentValidation: Display: Validating World /Game/Levels/Lighting.Lighting
+[2020.12.07-02.35.07:173][809]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Lighting_BuiltData.Lighting_BuiltData
+[2020.12.07-02.35.24:459][841]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2020.12.07-02.35.31:217][237]Cmd: TRANSACTION UNDO
+[2020.12.07-02.35.31:218][237]LogEditorTransaction: Undo Clicking on Actors
+[2020.12.07-02.35.31:236][237]LogNiagaraEditor: Verbose: '/Game/Dust/NewNiagaraSystem' Precompile took 0.007018 sec.
+[2020.12.07-02.35.31:244][237]LogNiagara: Compiling System NiagaraSystem /Game/Dust/NewNiagaraSystem.NewNiagaraSystem took 0.021861 sec (overall compilation time), 0.000000 sec (combined shader worker time).
+[2020.12.07-02.35.31:328][237]LogNiagaraEditor: Verbose: '/Game/Dust/NewNiagaraSystem' Precompile took 0.009287 sec.
+[2020.12.07-02.35.31:337][237]LogNiagara: Compiling System NiagaraSystem /Game/Dust/NewNiagaraSystem.NewNiagaraSystem took 0.026055 sec (overall compilation time), 0.000000 sec (combined shader worker time).
+[2020.12.07-02.35.31:396][237]23422_NewNiagaraSystem_MessageLog: System compile status dirty with 0 warning(s) and 0 error(s).
+[2020.12.07-02.35.40:230][740]Cmd: TRANSACTION UNDO
+[2020.12.07-02.35.40:230][740]LogEditorTransaction: Undo Clicking on Actors
+[2020.12.07-02.35.40:261][740]LogNiagaraEditor: Verbose: '/Game/Dust/NewNiagaraSystem' Precompile took 0.006866 sec.
+[2020.12.07-02.35.40:269][740]LogNiagara: Compiling System NiagaraSystem /Game/Dust/NewNiagaraSystem.NewNiagaraSystem took 0.021969 sec (overall compilation time), 0.000000 sec (combined shader worker time).
+[2020.12.07-02.35.40:359][740]LogNiagaraEditor: Verbose: '/Game/Dust/NewNiagaraSystem' Precompile took 0.008396 sec.
+[2020.12.07-02.35.40:368][740]LogNiagara: Compiling System NiagaraSystem /Game/Dust/NewNiagaraSystem.NewNiagaraSystem took 0.025388 sec (overall compilation time), 0.000000 sec (combined shader worker time).
+[2020.12.07-02.35.40:433][740]23422_NewNiagaraSystem_MessageLog: System compile status dirty with 0 warning(s) and 0 error(s).
+[2020.12.07-02.36.11:846][527]Cmd: TRANSACTION UNDO
+[2020.12.07-02.36.11:846][527]LogEditorTransaction: Undo Move Actors
+[2020.12.07-02.36.11:862][527]LogNiagaraEditor: Verbose: '/Game/Dust/NewNiagaraSystem' Precompile took 0.005472 sec.
+[2020.12.07-02.36.11:870][527]LogNiagara: Compiling System NiagaraSystem /Game/Dust/NewNiagaraSystem.NewNiagaraSystem took 0.020099 sec (overall compilation time), 0.000000 sec (combined shader worker time).
+[2020.12.07-02.36.11:946][527]LogNiagaraEditor: Verbose: '/Game/Dust/NewNiagaraSystem' Precompile took 0.006089 sec.
+[2020.12.07-02.36.11:954][527]LogNiagara: Compiling System NiagaraSystem /Game/Dust/NewNiagaraSystem.NewNiagaraSystem took 0.019756 sec (overall compilation time), 0.000000 sec (combined shader worker time).
+[2020.12.07-02.36.12:014][527]23422_NewNiagaraSystem_MessageLog: System compile status dirty with 0 warning(s) and 0 error(s).
+[2020.12.07-02.36.19:820][964]LogEditorViewport: Clicking on Actor (LMB): CineCameraActor (CineCameraActor1)
+[2020.12.07-02.37.26:888][845]Cmd: ACTOR BAKEPREPIVOT
+[2020.12.07-02.38.14:317][616]Cmd: TRANSACTION UNDO
+[2020.12.07-02.38.14:317][616]LogEditorTransaction: Undo Move Actors
+[2020.12.07-02.38.14:420][616]LogNiagaraEditor: Verbose: '/Game/Dust/NewNiagaraSystem' Precompile took 0.009716 sec.
+[2020.12.07-02.38.14:432][616]LogNiagara: Compiling System NiagaraSystem /Game/Dust/NewNiagaraSystem.NewNiagaraSystem took 0.029770 sec (overall compilation time), 0.000000 sec (combined shader worker time).
+[2020.12.07-02.38.14:527][616]LogNiagaraEditor: Verbose: '/Game/Dust/NewNiagaraSystem' Precompile took 0.007951 sec.
+[2020.12.07-02.38.14:537][616]LogNiagara: Compiling System NiagaraSystem /Game/Dust/NewNiagaraSystem.NewNiagaraSystem took 0.026037 sec (overall compilation time), 0.000000 sec (combined shader worker time).
+[2020.12.07-02.38.14:609][616]23422_NewNiagaraSystem_MessageLog: System compile status dirty with 0 warning(s) and 0 error(s).
+[2020.12.07-02.38.22:491][ 43]Cmd: TRANSACTION UNDO
+[2020.12.07-02.38.22:491][ 43]LogEditorTransaction: Undo Move Actors
+[2020.12.07-02.38.22:589][ 43]LogNiagaraEditor: Verbose: '/Game/Dust/NewNiagaraSystem' Precompile took 0.007840 sec.
+[2020.12.07-02.38.22:598][ 43]LogNiagara: Compiling System NiagaraSystem /Game/Dust/NewNiagaraSystem.NewNiagaraSystem took 0.026337 sec (overall compilation time), 0.000000 sec (combined shader worker time).
+[2020.12.07-02.38.22:687][ 43]LogNiagaraEditor: Verbose: '/Game/Dust/NewNiagaraSystem' Precompile took 0.008075 sec.
+[2020.12.07-02.38.22:695][ 43]LogNiagara: Compiling System NiagaraSystem /Game/Dust/NewNiagaraSystem.NewNiagaraSystem took 0.024689 sec (overall compilation time), 0.000000 sec (combined shader worker time).
+[2020.12.07-02.38.22:763][ 43]23422_NewNiagaraSystem_MessageLog: System compile status dirty with 0 warning(s) and 0 error(s).
+[2020.12.07-02.38.28:747][382]LogEditorViewport: Clicking on Actor (LMB): CineCameraActor (CineCameraActor1)
+[2020.12.07-02.38.36:990][861]Cmd: TRANSACTION UNDO
+[2020.12.07-02.38.36:990][861]LogEditorTransaction: Undo Move Actors
+[2020.12.07-02.38.37:010][861]LogNiagaraEditor: Verbose: '/Game/Dust/NewNiagaraSystem' Precompile took 0.006673 sec.
+[2020.12.07-02.38.37:019][861]LogNiagara: Compiling System NiagaraSystem /Game/Dust/NewNiagaraSystem.NewNiagaraSystem took 0.023344 sec (overall compilation time), 0.000000 sec (combined shader worker time).
+[2020.12.07-02.38.37:100][861]LogNiagaraEditor: Verbose: '/Game/Dust/NewNiagaraSystem' Precompile took 0.006253 sec.
+[2020.12.07-02.38.37:109][861]LogNiagara: Compiling System NiagaraSystem /Game/Dust/NewNiagaraSystem.NewNiagaraSystem took 0.020978 sec (overall compilation time), 0.000000 sec (combined shader worker time).
+[2020.12.07-02.38.37:179][861]23422_NewNiagaraSystem_MessageLog: System compile status dirty with 0 warning(s) and 0 error(s).
+[2020.12.07-02.38.41:217][ 81]Cmd: TRANSACTION UNDO
+[2020.12.07-02.38.41:217][ 81]LogEditorTransaction: Undo Move Actors
+[2020.12.07-02.38.41:302][ 81]LogNiagaraEditor: Verbose: '/Game/Dust/NewNiagaraSystem' Precompile took 0.007519 sec.
+[2020.12.07-02.38.41:312][ 81]LogNiagara: Compiling System NiagaraSystem /Game/Dust/NewNiagaraSystem.NewNiagaraSystem took 0.024492 sec (overall compilation time), 0.000000 sec (combined shader worker time).
+[2020.12.07-02.38.41:411][ 81]LogNiagaraEditor: Verbose: '/Game/Dust/NewNiagaraSystem' Precompile took 0.008402 sec.
+[2020.12.07-02.38.41:424][ 81]LogNiagara: Compiling System NiagaraSystem /Game/Dust/NewNiagaraSystem.NewNiagaraSystem took 0.028680 sec (overall compilation time), 0.000000 sec (combined shader worker time).
+[2020.12.07-02.38.41:494][ 81]23422_NewNiagaraSystem_MessageLog: System compile status dirty with 0 warning(s) and 0 error(s).
+[2020.12.07-02.39.03:656][338]Cmd: TRANSACTION UNDO
+[2020.12.07-02.39.03:656][338]LogEditorTransaction: Undo Move Actors
+[2020.12.07-02.39.03:746][338]LogNiagaraEditor: Verbose: '/Game/Dust/NewNiagaraSystem' Precompile took 0.008105 sec.
+[2020.12.07-02.39.03:755][338]LogNiagara: Compiling System NiagaraSystem /Game/Dust/NewNiagaraSystem.NewNiagaraSystem took 0.024107 sec (overall compilation time), 0.000000 sec (combined shader worker time).
+[2020.12.07-02.39.03:846][338]LogNiagaraEditor: Verbose: '/Game/Dust/NewNiagaraSystem' Precompile took 0.007544 sec.
+[2020.12.07-02.39.03:855][338]LogNiagara: Compiling System NiagaraSystem /Game/Dust/NewNiagaraSystem.NewNiagaraSystem took 0.023976 sec (overall compilation time), 0.000000 sec (combined shader worker time).
+[2020.12.07-02.39.03:926][338]23422_NewNiagaraSystem_MessageLog: System compile status dirty with 0 warning(s) and 0 error(s).
+[2020.12.07-02.39.51:106][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2020.12.07-02.39.51:154][ 45]LogSavePackage: Moving '../../../../../Documents/GitHub/magmagems.github.io/unrealGemIsland/gemIslandGame/Saved/Lighting1A8CA3A043E68EEE957CB18F0AD50E21.tmp' to '../../../../../Documents/GitHub/magmagems.github.io/unrealGemIsland/gemIslandGame/Content/Levels/Lighting.umap'
+[2020.12.07-02.39.51:204][ 45]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Lighting_BuiltData" FILE="../../../../../Documents/GitHub/magmagems.github.io/unrealGemIsland/gemIslandGame/Content/Levels/Lighting_BuiltData.uasset" SILENT=true
+[2020.12.07-02.39.51:246][ 45]LogSavePackage: Moving '../../../../../Documents/GitHub/magmagems.github.io/unrealGemIsland/gemIslandGame/Saved/Lighting_BuiltDataF946D1ED4D1322B08D6F0684A01C3D32.tmp' to '../../../../../Documents/GitHub/magmagems.github.io/unrealGemIsland/gemIslandGame/Content/Levels/Lighting_BuiltData.uasset'
+[2020.12.07-02.39.51:262][ 45]AssetCheck: New page: Asset Save: multiple assets
+[2020.12.07-02.39.51:262][ 45]LogContentValidation: Display: Validating World /Game/Levels/Lighting.Lighting
+[2020.12.07-02.39.51:262][ 45]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Lighting_BuiltData.Lighting_BuiltData
+[2020.12.07-02.39.51:905][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2020.12.07-02.39.57:918][404]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/Levels/LightingLevelSequence.LightingLevelSequence
+[2020.12.07-02.39.58:156][404]LogSlate: Took 0.000263 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2020.12.07-02.40.54:411][531]LogEditorViewport: Clicking on Actor (LMB): CineCameraActor (CineCameraActor1)
+[2020.12.07-02.41.03:858][ 75]Cmd: TRANSACTION UNDO
+[2020.12.07-02.41.03:858][ 75]LogEditorTransaction: Undo Rotate Actors
+[2020.12.07-02.41.03:880][ 75]LogNiagaraEditor: Verbose: '/Game/Dust/NewNiagaraSystem' Precompile took 0.008855 sec.
+[2020.12.07-02.41.03:892][ 75]LogNiagara: Compiling System NiagaraSystem /Game/Dust/NewNiagaraSystem.NewNiagaraSystem took 0.028312 sec (overall compilation time), 0.000000 sec (combined shader worker time).
+[2020.12.07-02.41.03:972][ 75]LogNiagaraEditor: Verbose: '/Game/Dust/NewNiagaraSystem' Precompile took 0.007535 sec.
+[2020.12.07-02.41.03:981][ 75]LogNiagara: Compiling System NiagaraSystem /Game/Dust/NewNiagaraSystem.NewNiagaraSystem took 0.022208 sec (overall compilation time), 0.000000 sec (combined shader worker time).
+[2020.12.07-02.41.04:049][ 75]23422_NewNiagaraSystem_MessageLog: System compile status dirty with 0 warning(s) and 0 error(s).
+[2020.12.07-02.41.23:932][ 86]LogSlate: Window 'Sequencer Curves' being destroyed
+[2020.12.07-02.41.23:939][ 86]LogSlate: Window 'Sequencer Curves' being destroyed
+[2020.12.07-02.43.06:120][769]LogSlate: Took 0.000860 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.12.07-02.43.17:360][379]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GemIsland_OuterLand2)
+[2020.12.07-02.43.18:149][422]LogEditorViewport: Clicking on Actor (LMB): CineCameraActor (CineCameraActor1)
+[2020.12.07-02.46.09:971][103]LogEditorTransaction: Undo Add Key
+[2020.12.07-02.46.09:990][103]LogNiagaraEditor: Verbose: '/Game/Dust/NewNiagaraSystem' Precompile took 0.006368 sec.
+[2020.12.07-02.46.09:998][103]LogNiagara: Compiling System NiagaraSystem /Game/Dust/NewNiagaraSystem.NewNiagaraSystem took 0.021318 sec (overall compilation time), 0.000000 sec (combined shader worker time).
+[2020.12.07-02.46.10:080][103]LogNiagaraEditor: Verbose: '/Game/Dust/NewNiagaraSystem' Precompile took 0.006981 sec.
+[2020.12.07-02.46.10:089][103]LogNiagara: Compiling System NiagaraSystem /Game/Dust/NewNiagaraSystem.NewNiagaraSystem took 0.022571 sec (overall compilation time), 0.000000 sec (combined shader worker time).
+[2020.12.07-02.46.10:154][103]23422_NewNiagaraSystem_MessageLog: System compile status dirty with 0 warning(s) and 0 error(s).
+[2020.12.07-02.46.10:520][110]LogEditorTransaction: Undo Add Key
+[2020.12.07-02.46.10:545][110]LogNiagaraEditor: Verbose: '/Game/Dust/NewNiagaraSystem' Precompile took 0.010767 sec.
+[2020.12.07-02.46.10:553][110]LogNiagara: Compiling System NiagaraSystem /Game/Dust/NewNiagaraSystem.NewNiagaraSystem took 0.026397 sec (overall compilation time), 0.000000 sec (combined shader worker time).
+[2020.12.07-02.46.10:633][110]LogNiagaraEditor: Verbose: '/Game/Dust/NewNiagaraSystem' Precompile took 0.006457 sec.
+[2020.12.07-02.46.10:643][110]LogNiagara: Compiling System NiagaraSystem /Game/Dust/NewNiagaraSystem.NewNiagaraSystem took 0.023911 sec (overall compilation time), 0.000000 sec (combined shader worker time).
+[2020.12.07-02.46.10:696][110]23422_NewNiagaraSystem_MessageLog: System compile status dirty with 0 warning(s) and 0 error(s).
+[2020.12.07-02.46.11:076][132]LogEditorTransaction: Undo Add Key
+[2020.12.07-02.46.11:097][132]LogNiagaraEditor: Verbose: '/Game/Dust/NewNiagaraSystem' Precompile took 0.009295 sec.
+[2020.12.07-02.46.11:108][132]LogNiagara: Compiling System NiagaraSystem /Game/Dust/NewNiagaraSystem.NewNiagaraSystem took 0.026810 sec (overall compilation time), 0.000000 sec (combined shader worker time).
+[2020.12.07-02.46.11:197][132]LogNiagaraEditor: Verbose: '/Game/Dust/NewNiagaraSystem' Precompile took 0.010035 sec.
+[2020.12.07-02.46.11:206][132]LogNiagara: Compiling System NiagaraSystem /Game/Dust/NewNiagaraSystem.NewNiagaraSystem took 0.026450 sec (overall compilation time), 0.000000 sec (combined shader worker time).
+[2020.12.07-02.46.11:263][132]23422_NewNiagaraSystem_MessageLog: System compile status dirty with 0 warning(s) and 0 error(s).
+[2020.12.07-02.46.43:030][870]LogEditorTransaction: Undo Add Key
+[2020.12.07-02.46.43:054][870]LogNiagaraEditor: Verbose: '/Game/Dust/NewNiagaraSystem' Precompile took 0.006705 sec.
+[2020.12.07-02.46.43:062][870]LogNiagara: Compiling System NiagaraSystem /Game/Dust/NewNiagaraSystem.NewNiagaraSystem took 0.023798 sec (overall compilation time), 0.000000 sec (combined shader worker time).
+[2020.12.07-02.46.43:145][870]LogNiagaraEditor: Verbose: '/Game/Dust/NewNiagaraSystem' Precompile took 0.006820 sec.
+[2020.12.07-02.46.43:153][870]LogNiagara: Compiling System NiagaraSystem /Game/Dust/NewNiagaraSystem.NewNiagaraSystem took 0.021577 sec (overall compilation time), 0.000000 sec (combined shader worker time).
+[2020.12.07-02.46.43:221][870]23422_NewNiagaraSystem_MessageLog: System compile status dirty with 0 warning(s) and 0 error(s).
+[2020.12.07-02.46.43:616][878]LogEditorTransaction: Undo Add Key
+[2020.12.07-02.46.43:644][878]LogNiagaraEditor: Verbose: '/Game/Dust/NewNiagaraSystem' Precompile took 0.010207 sec.
+[2020.12.07-02.46.43:656][878]LogNiagara: Compiling System NiagaraSystem /Game/Dust/NewNiagaraSystem.NewNiagaraSystem took 0.033714 sec (overall compilation time), 0.000000 sec (combined shader worker time).
+[2020.12.07-02.46.43:736][878]LogNiagaraEditor: Verbose: '/Game/Dust/NewNiagaraSystem' Precompile took 0.007397 sec.
+[2020.12.07-02.46.43:744][878]LogNiagara: Compiling System NiagaraSystem /Game/Dust/NewNiagaraSystem.NewNiagaraSystem took 0.022509 sec (overall compilation time), 0.000000 sec (combined shader worker time).
+[2020.12.07-02.46.43:795][878]23422_NewNiagaraSystem_MessageLog: System compile status dirty with 0 warning(s) and 0 error(s).
+[2020.12.07-02.46.44:322][909]LogEditorTransaction: Undo Add Key
+[2020.12.07-02.46.44:341][909]LogNiagaraEditor: Verbose: '/Game/Dust/NewNiagaraSystem' Precompile took 0.006276 sec.
+[2020.12.07-02.46.44:349][909]LogNiagara: Compiling System NiagaraSystem /Game/Dust/NewNiagaraSystem.NewNiagaraSystem took 0.021090 sec (overall compilation time), 0.000000 sec (combined shader worker time).
+[2020.12.07-02.46.44:429][909]LogNiagaraEditor: Verbose: '/Game/Dust/NewNiagaraSystem' Precompile took 0.007159 sec.
+[2020.12.07-02.46.44:438][909]LogNiagara: Compiling System NiagaraSystem /Game/Dust/NewNiagaraSystem.NewNiagaraSystem took 0.022652 sec (overall compilation time), 0.000000 sec (combined shader worker time).
+[2020.12.07-02.46.44:486][909]23422_NewNiagaraSystem_MessageLog: System compile status dirty with 0 warning(s) and 0 error(s).
