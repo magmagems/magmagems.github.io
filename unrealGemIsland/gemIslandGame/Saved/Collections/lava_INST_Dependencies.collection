@@ -3,6 +3,7 @@ Type:Static
 Guid:1EAE2039-4316-13BF-9F35-87A0DA19FFD6
 ParentGuid:00000000-0000-0000-0000-000000000000
 
+/Game/Levels/LightingLevelSequence.LightingLevelSequence
 /Game/substances/magma/lava-ue.lava-ue
 /Game/substances/magma/lava_INST_ambientocclusion.lava_INST_ambientocclusion
 /Game/substances/magma/lava_INST_basecolor.lava_INST_basecolor
