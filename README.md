@@ -44,4 +44,3 @@
 [Substance Designer - Procedural Lava Rivers](https://www.youtube.com/watch?v=z0PN6zNYAMA)
 
 [UE4 Flowing Noise Material Tutorial](https://www.youtube.com/watch?v=ut80qnOtNRw)
-
