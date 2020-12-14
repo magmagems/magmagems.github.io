@@ -20,7 +20,7 @@
 
 ![magma UE](https://magmagems.github.io/images/magmaUE.png)
 
-![ground UE](https://magmagems.github.io/images/groundUE.png)
+![ground UE](https://magmagems.github.io/images/groundUE.PNG)
 
 
 #### Due to the complexities of our textures, the first issue that we encountered was related to difficulties importing from Substance Designer to Unreal Engine, which we solved with some additional modifications to the resulting Unreal Engine materials to enable those interesting reactions.  Below are some snapshots of how the parallax occlusion of the gems and movement of the magma were implemented in the final result.
