@@ -34,14 +34,14 @@
 ![final view](https://magmagems.github.io/images/finalView.png)
 
 ### References:
-#### Backplate For Cave: https://www.nps.gov/havo/learn/nature/lava-tubes.htm 
-#### Crystal Texture in Substance : https://www.youtube.com/watch?v=FJqRwBBZvEU 
+[Backplate For Cave](https://www.nps.gov/havo/learn/nature/lava-tubes.htm)
+[Crystal Texture in Substance](https://www.youtube.com/watch?v=FJqRwBBZvEU)
 
-#### Basic Crystal Texture Node Tree : https://www.youtube.com/watch?v=3cEcb3xo5Lw 
+[Basic Crystal Texture Node Tree](https://www.youtube.com/watch?v=3cEcb3xo5Lw)
 
-#### BumpOffset Tutorial : https://80.lv/articles/developing-artistic-ice-in-unreal-engine-4/ 
+[BumpOffset Tutorial](https://80.lv/articles/developing-artistic-ice-in-unreal-engine-4)
 
-#### Substance Designer - Procedural Lava Rivers: https://www.youtube.com/watch?v=z0PN6zNYAMA
+[Substance Designer - Procedural Lava Rivers](https://www.youtube.com/watch?v=z0PN6zNYAMA)
 
-#### UE4 Flowing Noise Material Tutorial: https://www.youtube.com/watch?v=ut80qnOtNRw
+[UE4 Flowing Noise Material Tutorial](https://www.youtube.com/watch?v=ut80qnOtNRw)
 
